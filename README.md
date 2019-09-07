@@ -1,2 +1,2 @@
 # whatsapp
-link: https://syed-sameer1.github.io/whatsapp/
+file:///C:/Users/quran.master/Desktop/whatsapp-master/index.html
